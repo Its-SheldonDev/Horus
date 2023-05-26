@@ -1,0 +1,15 @@
+{
+	"type": {
+		"servers": "yes",
+		"dm": "yes"
+	},
+	"token": "YOUR DISCORD TOKEN",	
+	"words": [
+		"Message to search",
+		"Other message to search"
+	],
+	"regex": [
+		"Regex Use for search a custom message",
+		"Other regex"
+	]
+}
